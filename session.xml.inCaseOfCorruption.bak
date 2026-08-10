@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="860" startPos="1544" endPos="1544" selMode="0" offset="0" wrapCount="1" lang="Batch" encoding="-1" userReadOnly="no" filename="D:\All\அனைத்தும்.bat" backupFilePath="" originalFileLastModifTimestamp="1376469517" originalFileLastModifTimestampHigh="31271032" tabColourId="-1" RTL="no" tabPinned="no" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
